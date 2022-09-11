@@ -1,0 +1,32 @@
+
+/*About*/
+.heading{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #000;
+}
+
+
+.contentBx{
+    padding-right: 3px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content p{
+    font-size: 17px;
+    justify-content: space-between;
+}
+
+.w50{
+    min-width: 50%;
+}
+
+img{
+    max-width: 100%;
+}
+

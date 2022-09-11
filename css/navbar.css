@@ -1,0 +1,15 @@
+#navbar{
+    padding: 10px ;
+    margin: 10px auto;
+    text-align: center;
+}
+#navbar a{
+    width: 80px;
+    padding: 5px;
+    color: #444;
+}
+
+#navbar a:hover{
+    color: #c18969;
+}
+
